@@ -46,10 +46,3 @@
 ![Adobe XD](https://img.shields.io/badge/-Adobe&nbsp;XD-000?style=flat-square&logo=adobe-xd)
 ![Sketch](https://img.shields.io/badge/-Sketch-black?style=flat-square&logo=sketch)
 
-
-## Stats
-
- <!--- ![Tejas's github stats](https://github-readme-stats.vercel.app/api?username=tejakadali&show_icons=true&theme=merko) --->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejakadali&hide=ShaderLab,ASP&layout=compact&theme=dracula)
-
